@@ -46,7 +46,6 @@ struct LoginView: View {
                 .padding(.top, 24)
                 
                 //Spacer()  <-- 이거 하면 위로 정렬
-            
                 
                 // sign up button
                 NavigationLink{
