@@ -8,7 +8,6 @@
 import SwiftUI
 
 struct TimeTableMainView: View {
-    @Environment(\.dismiss) var dismiss
     var body: some View {
         Text("Time Table")
     }
