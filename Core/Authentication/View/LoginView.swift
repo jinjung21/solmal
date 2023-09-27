@@ -50,7 +50,7 @@ struct LoginView: View {
                 // sign up button
                 NavigationLink{
                     RegistrationView()
-                        .navigationBarBackButtonHidden(true) //있으면  back버튼 없어짐. 편한지는 모르겠음 ㅋㅋ
+                        //.navigationBarBackButtonHidden(true) //있으면  back버튼 없어짐. 편한지는 모르겠음 ㅋㅋ
                 } label: {
                     HStack{
                         Text("Don't have an account?")
